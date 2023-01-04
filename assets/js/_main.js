@@ -95,4 +95,7 @@ $(document).ready(function(){
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
 
+  var encEmail = "bWZvcm5hY2VAY2FsdGVjaC5lZHU=";
+  document.getElementById("contact").setAttribute("href", "mailto:".concat(atob(encEmail)));
+  document.getElementById("contact").textContent = "".concat(atob(encEmail));
 });

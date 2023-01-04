@@ -85,9 +85,11 @@ author:
   bio              : "Postdoctoral scholar in the Pierce group at Caltech"
   location         :
   employer         : "California Institute of Technology"
+  group            : "Pierce lab"
+  groupurl         : "https://www.piercelab.caltech.edu/"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=EPivauwAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
