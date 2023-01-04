@@ -312,5 +312,5 @@ compress_html:
   ignore:
     envs: development
 
-google_analtyics: G-W4JPGMXCF8
+google_analytics: G-W4JPGMXCF8
 
