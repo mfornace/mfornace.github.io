@@ -8,7 +8,7 @@ author_profile: true
 ## About me
 
 Hi! I am a researcher broadly interested in designing and implementing algorithms which model chemical and biological processes.
-I am currently a postdoctoral scholar in the Department of Bioengineering at Caltech.
+I am currently a postdoctoral researcher in the Mathematics group at Lawrence Berkeley National Laboratory.
 
 I did my PhD thesis in Chemistry at Caltech focusing on algorithms which model the thermodynamics and kinetics of nucleic acid (RNA and DNA) secondary structures.
 An important part of my research was implemented and distributed in the NUPACK 4 software suite.
