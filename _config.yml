@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Mark Fornace"
   avatar           : "profile.png"
-  bio              : "Postdoctoral scholar in the Pierce group at Caltech"
+  bio              : "Postdoctoral researcher in the Mathematics group at Berkeley lab"
   location         :
-  employer         : "California Institute of Technology"
-  group            : "Pierce lab"
-  groupurl         : "https://www.piercelab.caltech.edu/"
+  employer         : "Lawrence Berkeley National Lab"
+  group            : "Mathematics group"
+  groupurl         : "https://crd.lbl.gov/divisions/amcr/mathematics-dept/math/"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=EPivauwAAAAJ&hl=en&oi=ao"
   email            : 
