@@ -23,4 +23,7 @@ See the above toolbar for links to my CV and Google Scholar pages.
 My thesis is now available [here](https://thesis.library.caltech.edu/14456/). 
 You can contact me at <a id="contact" href="">fake@fake-email.org</a>.
 
+**New**: I am interested in hosting a PhD student intern during the summer of 2026. 
+Please contact me if you are interested and your experience aligns with one of my research directions!
+
 ---
