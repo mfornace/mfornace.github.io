@@ -12,7 +12,7 @@ I am currently the 2025 Alvarez postdoctoral fellow in the Mathematics group at 
 
 I did my PhD thesis in Chemistry at Caltech focusing on algorithms which model the thermodynamics and kinetics of nucleic acid (RNA and DNA) secondary structures.
 An important part of my research was implemented and distributed in the NUPACK 4 software suite.
-This software is available as an open source [Python package](https://www.nupack.org/download/overview) for academic use with extensive [documentation](https://docs.nupack.org/).
+This software is available as a [Python package](https://www.nupack.org/download/overview) for academic use with extensive [documentation](https://docs.nupack.org/).
 Additionally, we have recently built an all-new hybrid-cloud [web application](https://www.nupack.org/) for interactive use of NUPACK online.
 
 On the applied mathematics side, my research interests include dynamic programming algorithms, Markov chains, random matrices, and numerical linear algebra.
@@ -22,8 +22,5 @@ I am also quite experienced in the efficient implementation and distribution of 
 See the above toolbar for links to my CV and Google Scholar pages. 
 My thesis is now available [here](https://thesis.library.caltech.edu/14456/). 
 You can contact me at <a id="contact" href="">fake@fake-email.org</a>.
-
-**New**: I am interested in hosting a PhD student intern during the summer of 2026. 
-Please contact me if you are interested and your experience aligns with one of my research directions!
 
 ---
